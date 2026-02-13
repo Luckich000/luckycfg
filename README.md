@@ -1,5 +1,10 @@
 # luckycfg (ru/en)
 config for DDrace Network
+> [!IMPORTANT]
+> (ru) Конфиг- это сборка файлов с командами **самой** игры. Он абсолютно безопасен для установки и не использует никакие файлы вашего компьютера, только команды доступные в игре!
+> 
+> (en) Config is a collection of files with the game's own commands. It is completely safe to install and does not use any of your computer's files, only the commands available in the game!
+ 
 # **(ru) как использовать**
 > [!TIP]
 > Вы можете устанавливать конфиг не выходя из игры.
