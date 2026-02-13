@@ -1,6 +1,5 @@
-# luckycfg
+# luckycfg (ru/en)
 config for DDrace Network
-## **ru/en**
 # **(ru) как использовать**
 > [!TIP]
 > Вы можете устанавливать конфиг не выходя из игры.
