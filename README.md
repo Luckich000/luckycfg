@@ -28,4 +28,33 @@ exec start
 13) после чего в чат вам должно высветится сообщение об успешной установке
 14) по нажатии f11 можно будет увидеть все бинды
 > [!NOTE]
-> Вы можете настраивать бинды под себя в файле start.txt 
+> Вы можете настраивать бинды под себя в файле start.txt
+
+Удачной игры!
+
+# **(en) how to use**
+> [!TIP]
+> You can set the config without leaving the game.
+
+if via steam:
+1) opening the library
+2) Find a game
+3) settings button (manage)
+4) manage
+5) Browse local files
+6) After clicking the button, you will see the ddnet folder (this is the game's root folder)
+7) download config
+8) in the config folder, there is a luckymod folder and a start file that you need to move to the game's root folder (the ddnet folder that we opened earlier)
+9) After a successful transfer, you can log in to the game (if you have logged out)
+10) go to any map
+11) press f1 (the console should open)
+12) write there:
+```
+exec start
+```
+13) After that, you should see a message in the chat about the successful installation.
+14) By pressing f11, you can see all the binds.
+> [!NOTE]
+> You can customize the binds in the start.txt file
+
+Have a good game!
