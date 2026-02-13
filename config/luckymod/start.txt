@@ -1,0 +1,111 @@
+#----показать бинды
+
+bind f11 "exec luckymod/help.txt"
+
+
+
+
+#-ты можешь поменять кнопки как хочешь
+
+====================================================================================
+[AYARLAR]
+---------------------------------------------------------------------------------------
+###--СБРОС
+
+bind kp_0 "exec luckymod/luckycfg/reset/reset.cfg; echo | Bind Mode: сброс мода"
+
+
+---------------------------------------------------------------------------------------
+###--Nothing
+
+bind mouse4 "exec luckymod/luckycfg/fly/dummyfly.cfg; echo | Nothing"
+
+
+---------------------------------------------------------------------------------------
+
+###--DeepFly
+
+bind mouse5 "exec luckymod/luckycfg/deepfly/deepfly.cfg; echo | Bind Mode: DeepFly"
+
+
+---------------------------------------------------------------------------------------
+##--Антипинг
+
+#вкл
+bind 9 "exec luckymod/luckycfg/antiping/on.cfg; echo | Антипинг: вкл."
+
+#выкл
+
+bind 0 "exec luckymod/luckycfg/antiping/off.cfg; echo | Антипинг: выкл."
+
+
+
+=========================================================================================
+
+#=>prochee
+
+
+##--подключить дамми
+
+bind up "exec luckymod/luckycfg/prochee/dummyconnect.cfg; echo | Дамми пришел"
+
+---------------------------------------------------------------------------------------
+##--отключить дамми
+
+bind backspace "exec luckymod/luckycfg/prochee/dummydisconnect.cfg; echo | Дамми скинулся"
+
+---------------------------------------------------------------------------------------
+##--залочить тиму
+
+bind l "exec luckymod/luckycfg/prochee/lock.cfg"
+
+
+---------------------------------------------------------------------------------------
+##--ZOOM
+
+#увеличение
+bind right "exec luckymod/luckycfg/prochee/zoomup.cfg"
+
+#уменьшение
+bind left "exec luckymod/luckycfg/prochee/zoomdown.cfg"
+
+#обычный
+bind down "exec luckymod/luckycfg/prochee/zoom.cfg"
+
+
+---------------------------------------------------------------------------------------
+###--эмоции
+
+bind f "emote 15"
+bind g "emote 2"
+bind h "emote 6"
+
+---------------------------------------------------------------------------------------
+###--прочее
+bind w "+toggle cl_dummy_hammer 1 0"
+bind m "say /tc"
+bind c "toggle cl_dummy_copy_moves 0 1"
+bind e "+toggle cl_mouse_max_distance 2 400; +toggle inp_mousesens 1 126; +showhookcoll"
+bind n "exec luckymod/luckycfg/proshka/proshkaoff.cfg"
+bind j "exec luckymod/luckycfg/batut/batutoff.cfg"
+=======================================================================================
+
+[приветствие ( не трогать)]
+
+exec luckymod/luckycfg/nachalo/nachalo.cfg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
