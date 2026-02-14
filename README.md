@@ -28,7 +28,7 @@ exec start
 13) после чего в чат вам должно высветится сообщение об успешной установке
 14) по нажатии f11 можно будет увидеть все бинды
 > [!NOTE]
-> Вы можете настраивать бинды под себя в файле start.txt
+> Вы можете настраивать бинды под себя в файле start.txt. После изменений в файле напишите exec start в консоль, что бы применить изменения.
 
 Удачной игры!
 
@@ -55,6 +55,6 @@ exec start
 13) After that, you should see a message in the chat about the successful installation.
 14) By pressing f11, you can see all the binds.
 > [!NOTE]
-> You can customize the binds in the start.txt file
+> You can customize the binds in the start.txt file. After making changes to the file, write exec start in the console to apply the changes.
 
 Have a good game!
